@@ -1,4 +1,4 @@
-# Project-1-Blogging-Site
+# Project-Blogging Site
 
 # Uranium
 Repository for backend cohort - Thorium
