@@ -1,9 +1,6 @@
 # Project-Blogging Site
 
 
-# Uranium
-
-
 ## Blogging Site Mini Project Requirement
 
 ## Phase I
