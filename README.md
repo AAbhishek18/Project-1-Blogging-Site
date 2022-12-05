@@ -1,9 +1,6 @@
 # Blogging-Site-Mini-Project-Requirement
-Team: Abhishek ,Soumen ,Rishav, Naseem
 
-Uranium
 
-Repository for backend cohort - Uranium
 
 Blogging Site Mini Project Requirement
 
